@@ -1,5 +1,9 @@
 # Code Refactor Starter Code
 
+Deployed application: https://joilinco.github.io/uot/Develop/
+
+![Screenshot of refactored Horiseon page](image.png)
+
 User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
