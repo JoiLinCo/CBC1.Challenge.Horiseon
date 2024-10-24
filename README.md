@@ -1,6 +1,7 @@
 # Code Refactor Starter Code
 
-Deployed application: https://joilinco.github.io/uot/Develop/
+Deployed application: Renamed: https://joilinco.github.io/CBC1.Challenge.Horiseon/Develop
+Repository: https://github.com/JoiLinCo/CBC1.Challenge.Horiseon
 
 ![Screenshot of refactored Horiseon page](image.png)
 
